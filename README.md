@@ -6,8 +6,8 @@
 Minor in Statistics and Physics.
 
 **GitHub**: [Your GitHub Link](https://github.com/yourusername)  
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourlinkedin)  
-**Email**: [your.email@example.com](mailto:your.email@example.com)  
+**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/feed/)  
+**Email**: [your.email@example.com](alveenakhan853@gmail.com)  
 
 ## About Me
 
