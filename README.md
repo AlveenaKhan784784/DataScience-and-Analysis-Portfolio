@@ -27,7 +27,7 @@ I am a Mathematics major with a strong interest in both Data Science and Data An
 - **Description**: Predicted housing prices using a variety of regression techniques. Focused on data cleaning, feature selection, and hyperparameter tuning to optimize model performance.
 - **Technologies Used**: Python, Pandas, Matplotlib, Scikit-learn
 - **Key Outcomes**: Implemented linear regression and random forest models, achieving a Root Mean Square Error of .
-- **GitHub**: [Ames Housing Price Prediction Repository]()
+- **GitHub**: [Ames Housing Price Prediction Repository]
 
 ### 2. Credit Card Fraud Detection
 - **Description**: Built a classification model to detect fraudulent credit card transactions. Used decision trees and random forest algorithms for classification and compared their performances.
